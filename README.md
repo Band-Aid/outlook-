@@ -1,5 +1,5 @@
 # README #
-
+bitbucketに公開していたものをこっちでも登録：https://bitbucket.org/dishida0120/outlook/downloads/
 Outlookで指定された@ドメイン以外のアドレスが宛先に含まれていると、**大丈夫？**メッセージをPromptするマクロ
 
 変な動きしても責任とれません。気休め程度にお使いください。
